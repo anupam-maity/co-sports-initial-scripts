@@ -1,4 +1,4 @@
-USER HARMANPS;
+USE HARMANPS;
 Drop table event;
 Drop table user;
 
