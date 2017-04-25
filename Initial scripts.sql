@@ -9,7 +9,7 @@ CREATE TABLE `event` (
   `event_venue` varchar(150) DEFAULT NULL,
   `event_date` date DEFAULT NULL,
   `max_participants` int(11) DEFAULT NULL,
-  `number_of_perticipants` int(11) DEFAULT NULL,
+  `number_of_participants` int(11) DEFAULT NULL,
   `event_status` varchar(150) DEFAULT NULL,
   `registration_status` varchar(150) DEFAULT NULL,
   PRIMARY KEY (`event_id`)
